@@ -1,0 +1,21 @@
+T1 Cities
+	Ahmedabad
+	Dheli
+	Mumbai
+	Bangalore
+	Chennai
+	Hyderabad
+	Kolkata
+
+T2 Cities
+	 Amritsar
+	 Bhopal
+	 Bhubaneswar
+	 Chandigarh
+	 Jamshedpur
+	 Jaipur
+	 Visakhapatnam
+
+
+
+
