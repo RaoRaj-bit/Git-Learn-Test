@@ -16,6 +16,10 @@ T2 Cities
 	 Jaipur
 	 Visakhapatnam
 
-
+T3 Cities
+	Ajmer
+	Cuttack
+	Srikakulam
+	konan
 
 
