@@ -1,25 +1,5 @@
-T1 Cities
-	Ahmedabad
-	Dheli
-	Mumbai
-	Bangalore
-	Chennai
-	Hyderabad
-	Kolkata
-
-T2 Cities
-	 Amritsar
-	 Bhopal
-	 Bhubaneswar
-	 Chandigarh
-	 Jamshedpur
-	 Jaipur
-	 Visakhapatnam
-
-T3 Cities
-	Ajmer
-	Cuttack
-	Srikakulam
-	konan
-
-
+City 1
+City 2
+City 3
+City 4
+City 5
