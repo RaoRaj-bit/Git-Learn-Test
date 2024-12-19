@@ -1,5 +1,5 @@
-Odisha
-andhra pradesh
-tamil nadu
-karnataka 
-madhya prdesh
+State 1
+State 2
+State 3
+State 4
+State 5
