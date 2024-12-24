@@ -3,7 +3,3 @@ Country 2
 Country 3
 Country 4
 Country 5
-
-Commit 21
-Country 6
-Country 7
