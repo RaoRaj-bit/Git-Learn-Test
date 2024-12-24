@@ -32,16 +32,4 @@ City 23
 City 24
 City 25
 
-Update 5 -- commit 20
-city 26
-city 27
-
--> Commit 26
-      City 28
-      City 29
-      City 30
-
--> Commit 27
-	City 31
-	City 32
-	City 33
+Commit 28 -- Removed 8 Cities
